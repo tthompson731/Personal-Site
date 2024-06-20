@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2c2c2c;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: #fff;
+            padding: 15px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 40px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .coffee, .motivation, .music {
+            margin-bottom: 60px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My World</h1>
+    </header>
+    <nav>
+        <a href="#coffee">Coffee</a>
+        <a href="#motivation">Motivation</a>
+        <a href="#music">Music</a>
+    </nav>
+    <section id="coffee" class="coffee">
+        <h2>Coffee</h2>
+        <p>I love coffee! It's not just a drink, it's a lifestyle. Coffee fuels my creativity and keeps me motivated throughout the day. Whether it's a strong espresso or a smooth latte, coffee is my constant companion as I create content and write songs.</p>
+    </section>
+    <section id="motivation" class="motivation">
+        <h2>Motivation</h2>
+        <p>Motivating people is one of my greatest passions. I believe in the power of positive thinking and the impact of a good laugh. Through my content, I aim to inspire others, lift their spirits, and encourage them to pursue their dreams. Let's make every day a great one!</p>
+    </section>
+    <section id="music" class="music">
+        <h2>Music</h2>
+        <p>Music is at the heart of everything I do. From songwriting to playing instruments, music is my way of expressing emotions and connecting with others. I love creating songs that tell stories, evoke feelings, and bring people together. Let's make some beautiful music!</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>

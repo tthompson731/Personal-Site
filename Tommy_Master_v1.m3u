@@ -1,0 +1,120 @@
+#EXTM3U
+# Tommy Master v1 - quick browse build
+# Public/open stream starter assembled from the two source projects
+
+#EXTINF:-1 tvg-id="48Hours.us@US" group-title="US - Entertainment",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" group-title="US - News & Business",Bloomberg Originals
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="US - News & Business",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="US - News & Business",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="US - Entertainment",Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us@SD" group-title="US - Entertainment",Brat TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EntrepreneurTV.us@SD" group-title="US - Business",Entrepreneur TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
+
+#EXTINF:-1 tvg-id="FTFSports.us@SD" group-title="US - Sports",FTF Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us@SD" group-title="US - Auto & Travel",Fun Roads
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+
+#EXTINF:-1 tvg-id="GalxyTV.us@SD" group-title="US - Entertainment",Galxy TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
+
+#EXTINF:-1 tvg-id="HSN2.us@SD" group-title="US - Shopping",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us@West" group-title="US - Shopping",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="IntheKitchen.us@SD" group-title="US - Cooking",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us@East" group-title="US - Entertainment",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItIsWrittenTV.us@SD" group-title="US - Faith",It Is Written TV
+https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCAmerica.us@SD" group-title="US - International",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCLXHome.us@HD" group-title="US - Lifestyle",NBC LX Home
+https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" group-title="US - News",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxSpanish.us@SD" group-title="US - News",Newsmax Spanish
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="US - News",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us@SD" group-title="US - News",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-id="Kanali7.al" group-title="International",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" group-title="International - News",CNA Albania
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" group-title="International - News",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OraNews.al" group-title="International - News",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="AndorraTV.ad" group-title="International",Andorra TV
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="International - Sports",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" group-title="International - News",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" group-title="International",Net TV Argentina
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10Sydney.au" group-title="Australia",10 HD
+https://i.mjh.nz/.r/10-nsw.m3u8
+
+#EXTINF:-1 tvg-id="ABCTV.au" group-title="Australia",ABC Australia
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 tvg-id="SBSTV.au" group-title="Australia",SBS
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+
+#EXTINF:-1 tvg-id="SevenNetwork.au" group-title="Australia",Seven
+https://i.mjh.nz/.r/seven-syd.m3u8
+
+#EXTINF:-1 tvg-id="NineNetwork.au" group-title="Australia",Nine
+https://i.mjh.nz/.r/channel-9-nsw.m3u8
+
+#EXTINF:-1 tvg-id="ABCKids.au" group-title="Australia - Kids",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="ABCMe.au" group-title="Australia - Kids",ABC Me
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.au" group-title="Australia - News",ABC News Australia
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-id="SBSViceland.au" group-title="Australia",SBS Viceland
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" group-title="Australia - Movies",SBS World Movies
+https://i.mjh.nz/.r/sbs-4syd.m3u8
